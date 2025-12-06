@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*============ Header Container =============*/
+.header-container {
+    /*display: flex;
+    justify-content: space-between;
+    align-items: center;*/
+}
+
+.discount-container {
+    background-color: #f5f5f5;
+    padding: 1rem;
+}
+
+.discount-alert {
+    max-width: 90%;
+    margin-inline: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.discount-text {
+    font-size: 1rem;
+}
+.discount-instructions {
+    display: flex;
+    column-gap: 1.5rem;
+    align-items: center;
+}
+
+.discount-instructions span {
+    display: inline-flex;
+    align-items: center;
+    column-gap: 0.5rem;
+}
+
+.discount-instructions svg {
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+/*Hero Section*/
+.hero-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
