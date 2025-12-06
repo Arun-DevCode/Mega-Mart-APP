@@ -1,0 +1,15 @@
+.header-section{
+    display:flex;
+    flex-direction: column;
+}
+.discount-alert{
+  display: flex;
+    justify-content:space-around;
+}
+.brand{
+    display: flex;
+    justify-content:space-around;
+}
+.mega{
+    color:rgb(0, 157, 255)
+}
