@@ -42,7 +42,12 @@
     width: 1.5rem;
     height: 1.5rem;
 }
-
+.brand{
+    display: flex;
+    justify-content:space-around;
+}
+.mega{
+    color:rgb(0, 157, 255)}
 /*Hero Section*/
 .hero-section {
     display: flex;
